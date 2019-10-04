@@ -25,9 +25,9 @@ Build-Depends: debhelper,
  qttools5-dev-tools, qttools5-dev,
  libqrencode-dev
 Standards-Version: 3.9.5
-Homepage: https://www.stronghands.net/
-Vcs-Git: git://github.com/stronghands/stronghands.git
-Vcs-Browser: https://github.com/stronghands/stronghands
+Homepage: https://www.stronghands.info/
+Vcs-Git: git://bitbucket.org/bumbacoin/stronghands-new.git
+Vcs-Browser: https://bitbucket.org/bumbacoin/stronghands-new
 
 Package: stronghandsd
 Architecture: any

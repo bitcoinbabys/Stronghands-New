@@ -28,7 +28,7 @@ Distributed under the MIT/X11 software license, see the accompanying file COPYIN
 
 This product includes software developed by the OpenSSL Project for use in the OpenSSL Toolkit (https://www.openssl.org/) and cryptographic software written by Eric Young (eay@cryptsoft.com) and UPnP software written by Thomas Bernard.
 
-More information can be found on the Stronghands official website: https://stronghands.net/.</source>
+More information can be found on the Stronghands official website: https://stronghands.info/.</source>
         <translation>
 This is experimental software.
 
@@ -36,7 +36,7 @@ Distributed under the MIT/X11 software license, see the accompanying file COPYIN
 
 This product includes software developed by the OpenSSL Project for use in the OpenSSL Toolkit (https://www.openssl.org/) and cryptographic software written by Eric Young (eay@cryptsoft.com) and UPnP software written by Thomas Bernard.
 
-More information can be found on the Stronghands official website: https://stronghands.net/.</translation>
+More information can be found on the Stronghands official website: https://stronghands.info/.</translation>
     </message>
     <message>
         <location filename="../aboutdialog.cpp" line="+14"/>
