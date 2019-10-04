@@ -1,0 +1,11 @@
+usr/local/bin/stronghands-qt usr/bin
+share/pixmaps/stronghands16.png usr/share/pixmaps
+share/pixmaps/stronghands32.png usr/share/pixmaps
+share/pixmaps/stronghands128.png usr/share/pixmaps
+share/pixmaps/stronghands256.png usr/share/pixmaps
+share/pixmaps/stronghands-testnet32.png usr/share/pixmaps
+share/pixmaps/stronghands-testnet128.png usr/share/pixmaps
+share/pixmaps/stronghands-testnet256.png usr/share/pixmaps
+debian/stronghands-qt.desktop usr/share/applications
+debian/stronghands-testnet-qt.desktop usr/share/applications
+debian/stronghands-qt.protocol usr/share/kde4/services/
