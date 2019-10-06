@@ -193,15 +193,19 @@ QToolBar > QToolButton {
 /* Status Bar */
 QStatusBar {
     color: #666666;
-    background: #E3E3E3;
+/*    background: #E3E3E3; */
+    background: #666666;
 }
 
+/*info text*/
 QStatusBar QLabel {
-    color: #666666;
+/*    color: #666666;*/
+    color: #FFFFFF;
 }
 
 QStatusBar::item {
-    color: #666666;
+/*    color: #666666;*/
+    color: #76bdc9;
 }
 
 /* Overview Page */
