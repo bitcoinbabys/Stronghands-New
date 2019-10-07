@@ -166,11 +166,11 @@ WalletModel::SendCoinsReturn WalletModel::sendCoins(const QList<SendCoinsRecipie
         total += rcp.amount;
     }
 
-    if(recipients.size() > setAddress.size())
+/*    if(recipients.size() > setAddress.size())
     {
         return DuplicateAddress;
     }
-
+*/
     // we do not use getBalance() here, because some coins could be locked or coin control could be active
     int64 nBalance = 0;
     std::vector<COutput> vCoins;

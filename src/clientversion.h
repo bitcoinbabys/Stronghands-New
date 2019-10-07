@@ -23,7 +23,7 @@
 #define PEERCOIN_VERSION_MAJOR       0
 #define PEERCOIN_VERSION_MINOR       7
 #define PEERCOIN_VERSION_REVISION    3
-#define PEERCOIN_VERSION_BUILD       0
+#define PEERCOIN_VERSION_BUILD       01
 
 // Copyright year (2009-this)
 // Todo: update this when changing our copyright comments in the source
