@@ -8,6 +8,7 @@ Stronghands Official Development Repo
 Stronghands was originally released in 2015, it's initial POS return model of 100% /month resulted in incredible coin supply over time.
 In 2018 it was modified to adjust returns to reduce issuance.
 In 2019 it was moved to this new chain with a new reduced supply, and new return model.
+In 2021 it was updated with new logo.
 
 
 
