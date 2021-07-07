@@ -1,4 +1,15 @@
 
+THIS CODEBASE IS NO LONGER ACTIVE
+PLEASE VISIT
+https://github.com/stronghands-official/SHND-source/releases
+
+
+
+
+
+
+
+
 Stronghands Official Development Repo
 ==================================
 
